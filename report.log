@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.9)  13 SEP 2021 20:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.9)  13 SEP 2021 21:19
 entering extended mode
 **d:/mostafa/GitHub/latex/report.tex
 (d:/mostafa/GitHub/latex/report.tex
@@ -658,17 +658,17 @@ Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: CE6F308F2ADC5BCD21053F292078E1C9;1075.
  ) 
 Here is how much of TeX's memory you used:
- 24209 strings out of 478927
- 495193 string characters out of 2863329
+ 24213 strings out of 478927
+ 495217 string characters out of 2863329
  849032 words of memory out of 3000000
  41640 multiletter control sequences out of 15000+600000
  410439 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,8n,89p,775b,522s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\Mostafa\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><D:/mostafa/latex prog/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/mostafa/latex prog/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on report.pdf (17 pages, 51865 bytes).
+Output written on report.pdf (17 pages, 52287 bytes).
 PDF statistics:
- 165 PDF objects out of 1000 (max. 8388607)
- 37 named destinations out of 1000 (max. 500000)
+ 169 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
  93 words of extra memory for PDF output out of 10000 (max. 10000000)
 
